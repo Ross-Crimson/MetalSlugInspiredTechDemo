@@ -1,1 +1,1 @@
-Smaller project done it Unity to test weapon management, collision surface detection and rotation, knockback based on explosion center, ledge detection/climbing and other various mechanics and systems.
+Smaller project done in Unity to test weapon management, collision surface detection and rotation, knockback based on explosion center, ledge detection/climbing and other various mechanics and systems.
